@@ -8,7 +8,7 @@ url: "eyevaning.github.io" # the base hostname & protocol for your site, e.g. ht
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: Zero to Gnar# add banner title
+banner-title: Zero to Gnar # add banner title
 banner-desc: A full length skate film by Ivan Gaal - Coming Fall 2017 # add banner description
 
 # Author settings
